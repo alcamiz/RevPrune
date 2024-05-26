@@ -1,8 +1,8 @@
 <div align="center">
 
-# Alpha-Beta Pruning for Reversi in CUDA
+# RevPrune
 
-An implementation of alpha-bet pruning running on a CUDA gpu.
+An implementation of alpha-beta pruning running on a CUDA gpu.
 Uses built-in support for recursive functions, so it might not run
 on all graphic cards.
 
